@@ -1,4 +1,4 @@
-🏅 Olympic Games Data Analysis Dashboard (1976–2008)
+# 🏅 Olympic Games Data Analysis Dashboard (1976–2008)
 
 ## 📌 Project Overview
 
@@ -124,7 +124,16 @@ Data Visualization & Storytelling
 🥉 Bronze Medals: 5,258
 
 👥 Total Athletes: 11,337
+
 ```
 
+##  🎯 Business Value
 
+Enables quick performance comparison across countries and sports
+
+Helps identify top-performing nations and disciplines
+
+Supports data-driven storytelling and analytical decision-making
+
+Demonstrates real-world Power BI dashboarding and reporting skills
 
