@@ -1,4 +1,4 @@
-#🏅 Olympic Games Data Analysis Dashboard (1976–2008)
+🏅 Olympic Games Data Analysis Dashboard (1976–2008)
 
 ## 📌 Project Overview
 
