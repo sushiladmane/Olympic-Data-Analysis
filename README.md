@@ -125,10 +125,7 @@ Data Visualization & Storytelling
 
 👥 Total Athletes: 11,337
 
-```
-
-
- 🎯 Business Value
+## 🎯 Business Value
 
 Enables quick performance comparison across countries and sports
 
@@ -138,3 +135,5 @@ Supports data-driven storytelling and analytical decision-making
 
 Demonstrates real-world Power BI dashboarding and reporting skills
 
+
+```
